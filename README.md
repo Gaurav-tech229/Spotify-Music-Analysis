@@ -45,7 +45,7 @@ Data is extracted from Spotify’s listening history logs and contains key field
 **Dashboard:**  
 ![Albums Dashboard](https://github.com/Gaurav-tech229/Spotify-Music-Analysis/blob/main/Dash_Img/album_artist_track.png)  
 **Insight:**  
-> In 2024, listening shifted heavily towards “÷ (Divide)” with a 25% YoY growth, peaking in weekend plays.
+> In 2024, listening shifted heavily towards “In The Blood” with a 16% YoY growth, peaking in weekend plays.
 
 ---
 
@@ -60,7 +60,7 @@ Data is extracted from Spotify’s listening history logs and contains key field
 **Dashboard:**  
 ![Artists Dashboard](https://github.com/Gaurav-tech229/Spotify-Music-Analysis/blob/main/Dash_Img/album_artist_track.png)  
 **Insight:**  
-> “Ed Sheeran” dominated 2024 with a 35% YoY increase, especially on Friday evenings.
+> “The Beatles” dominated 2024 with a 35% YoY increase, especially on Friday evenings.
 
 ---
 
@@ -74,7 +74,7 @@ Data is extracted from Spotify’s listening history logs and contains key field
 **Dashboard:**  
 ![Tracks Dashboard](https://github.com/Gaurav-tech229/Spotify-Music-Analysis/blob/main/Dash_Img/album_artist_track.png)  
 **Insight:**  
-> “Shape of You” maintained top position for 3 years straight, but new tracks in 2024 showed faster growth.
+> “The Beatles” maintained top position for 3 years straight, but new tracks in 2024 showed faster growth.
 
 ---
 
@@ -102,7 +102,7 @@ Data is extracted from Spotify’s listening history logs and contains key field
 **Dashboard:**  
 ![Details Grid](https://github.com/Gaurav-tech229/Spotify-Music-Analysis/blob/main/Dash_Img/detailgrid.png)  
 **Insight:**  
-> Users can click on “Shape of You” in the grid to see full listening history by platform, day, and time.
+> Users can click in the grid to see full listening history by platform, day, and time.
 
 ---
 
